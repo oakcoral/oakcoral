@@ -26,4 +26,4 @@ Do enjoy your stay 🖤
   - Curly hair and a patchy beard (currently working on the beard though, derma rollers ftw!)
   - Lost 20kg in the past year and a half (in my training arc 💪)
   - Perfect date is just chilling on the sofa during a rainy day, with warm drinks, blankets, and books 📚 📖
-  - Just a regular guy really :)
+  - Have been touch starved for roughly a decade
