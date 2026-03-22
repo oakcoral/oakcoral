@@ -1,4 +1,4 @@
-### Greetings traveler!
+### Greetings traveler! 👋
 
 I am called oakcoral. Welcome to my patch of the web!
 
@@ -14,14 +14,14 @@ Do enjoy your stay 🖤
 
 ---
 
-### Tools & Tech
+### Tools & Tech 🛠️
   - Python, Java, C/C++, SQL
   - OpenGL, Android Studio, Pandas 
   - Godot, Unity, Unreal Engine, Blender
 
 ---
 
-### A Bit About me
+### A Bit About me ❓
   - 1.69 meters short (that's about 5'7 for the bald eagles out there)
   - Curly hair and a patchy beard (currently working on the beard though, derma rollers ftw!)
   - Lost 20kg in the past year and a half (in my training arc 💪)
