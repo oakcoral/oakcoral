@@ -21,7 +21,7 @@ Do enjoy your stay 🖤
 
 ---
 
-### A Bit About me ❓
+### A Bit More About Me ❓
   - 1.69 meters short (that's about 5'7 for the bald eagles out there)
   - Curly hair and a patchy beard (currently working on the beard though, derma rollers ftw!)
   - Lost 20kg in the past year and a half (in my training arc 💪)
