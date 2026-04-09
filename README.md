@@ -2,15 +2,13 @@
 
 I am called oakcoral. Welcome to my patch of the web!
 
-Graduated with a B.Sc degree in Computer Science in early 2026, and I've been coding & vibing - *not* vibe coding! - ever since :)
+Graduated with a B.Sc degree in Computer Science in early 2026, and I've been coding & vibing - *not* vibe coding - ever since!
 
-My hobbies are gaming, watching anime, making Boyfriend ASMR (whatever scene I happen to be daydreaming of that day), gardening, working out, and building & coding cool things.
+My hobbies are gaming, gardening, working out, and building & coding cool things.
 
-Favorite movies are John Wick, 300 Spartans, and The Lord of The Rings (as for favorite anime movies, there are too many to name lol). Favorite books are The Wheel of Time, The Stormlight Archive, and yet again The Lord of the Rings (though Robin Hobb has some really good books too). 
+Favorite movies are John Wick, 300 Spartans, and The Lord of The Rings. Favorite books are The Wheel of Time, The Stormlight Archive, and yet again The Lord of the Rings (though Robin Hobb has some really good books too). 
 
-If you want to know more about me, feel free to poke me on twitter!
-
-Do enjoy your stay 🖤
+Do enjoy your stay :)
 
 ---
 
@@ -19,11 +17,3 @@ Do enjoy your stay 🖤
   - OpenGL, Android Studio, Pandas 
   - Godot, Unity, Unreal Engine, Blender
 
----
-
-### A Bit More About Me ❓
-  - 1.69 meters short (that's about 5'7 for the bald eagles out there)
-  - Curly hair and a patchy beard (currently working on the beard though, derma rollers ftw!)
-  - Lost 20kg in the past year and a half (in my training arc 💪)
-  - Perfect date is just chilling on the sofa during a rainy day, with warm drinks, blankets, and books 📚 📖
-  - Have been touch starved for roughly a decade
